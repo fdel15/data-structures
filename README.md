@@ -4,6 +4,8 @@ The two challanges bellow, will help reinforce the concepts of the data structur
 we've discussed. Stacks and Queues are handy in many real world situations. Durning the challenge try to concentrate
 on why each structure is the best fit. Then try and think of other problems might solve. 
 
+- Use the Stack, and Queue Classes provided by rubymonk.com to help solve them.
+
 ## Challenge 1
 The Raccoon Den is one of the best nightclubs in the city. Each night of the week, 
 the owner lets 150 people into the club. No more, no less. Demand has become so great that the owner has decided to
